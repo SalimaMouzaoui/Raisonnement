@@ -1,0 +1,15 @@
+homme is-a etre-vivant
+maghrebin is-a homme
+europeen is-a homme
+asiatique is-a homme
+algerien is-a maghrebin
+marocain is-a maghrebin
+francais is-a europeen
+chinois is-a asiatique
+algerien mange couscous
+marocain mange hrira
+chinois mange sauterelles
+sauterelles is-a insecte
+francais mange escargot
+insecte is-a animal
+escargot is-a animal
